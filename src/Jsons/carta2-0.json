@@ -1,0 +1,59 @@
+{ "pastas":[
+    {
+        "id": 1,
+        "plato": "pasta al pesto",
+        "ingredientes": [ " albahaca", " piñones", " parmesano"],
+        "precio": 10
+    },
+    {
+        "id": 2,
+        "plato": "carbonara(chef recipe)",
+        "ingredientes": [" panceta", " huevo", " cebolla", " mantequilla", " parmesano"],
+        "precio": 9
+    },
+    {
+        "id": 3,
+        "plato": "boloñesa",
+        "ingredientes": [" ternera", " tomate", " verduras", " parmesano"],
+        "precio": 11
+    }],
+
+ "pizzas": [
+    {
+        "id": 4,
+        "plato": "margherita",
+        "ingredientes": [ " tomate", " mozzarella", " albahaca"],
+        "precio": 7
+    },
+    {
+        "id": 5,
+        "plato": "diavola",
+        "ingredientes": [" tomate", " mozzarella", " salami picante", " cebolla"],
+        "precio": 11
+    },
+    {
+        "id": 6,
+        "plato": "bufala",
+        "ingredientes": [ " tomate", " bufala", " albahaca"],
+        "precio": 11
+    }],
+
+   "postres": [
+    {
+        "id": 7,
+        "plato": "sfogliatella santa rosa",
+        "ingredientes": [" masa de trigo", " crema pastelera", " amarena" ],
+        "precio": 4
+    }, {
+        "id": 8,
+        "plato": "tiramisú",
+        "ingredientes": [" huevos", " cacao", " café", " licor Amaretto", " galletas Savoiardi"],
+        "precio": 4
+    }, {
+        "id": 9,
+        "plato": "cannolo",
+        "ingredientes": [" galleta", " ricotta", " fruta caramelizada", " chocolate"],
+        "precio": 3.5
+    }
+  ]
+}

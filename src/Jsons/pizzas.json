@@ -1,0 +1,46 @@
+
+
+{
+ "pizza": {
+    "margherita": {
+        "id": [1],
+        "name": ["margherita"],
+        "precio": [7],
+        "ingredientes":[ "tomate", "mozzarella", "albahaca"]
+        },
+"diavola": {
+        "id": 2,
+        "name": ["diavola"],
+        "precio": 9,
+        "ingredientes":[ "tomate", "mozzarella", "albahaca", "salami picante", "cebolla"]
+        },
+"bufala": {
+            "id": 3,
+        "name": ["bufala"],
+        "precio": 9,
+        "ingredientes":[ "tomate", "bufala", "albahaca"]
+        }
+    },
+
+    
+ "pastas": {
+    "pesto": {
+        "id": [1],
+        "name": ["pasta al pesto"],
+        "precio": [10],
+        "ingredientes":[ "piñones", "parmesano", "albahaca"]
+        },
+"carbonara": {
+        "id": 2,
+        "name": ["carbonara"],
+        "precio": 9,
+        "ingredientes":[ "panceta", "parmesano", "huevo", "mantequilla", "cebolla"]
+        },
+"boloñesa": {
+            "id": 3,
+        "name": ["boloñesa"],
+        "precio": 11,
+        "ingredientes":[ "ternera", "tomate", "verduras", "parmesano"]
+        }
+    }
+}

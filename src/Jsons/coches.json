@@ -1,0 +1,13 @@
+{
+    "cars": {
+        "Nissan": [
+            {"id": 1, "model":"Sentra", "doors":4},
+            {"id": 2, "model":"Maxima", "doors":4},
+            {"id": 3, "model":"Skyline", "doors":2}
+        ],
+        "Ford": [
+            {"id": 4, "model":"Taurus", "doors":4},
+            {"id": 5, "model":"Escort", "doors":4}
+        ]
+    }
+}

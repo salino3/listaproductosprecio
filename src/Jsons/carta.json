@@ -1,0 +1,94 @@
+
+
+{
+ "pizzas": {
+    "margherita": {
+        "id": [1],
+        "nombre": ["margherita"],
+        "precio": [7],
+        "ingredientes":[ "tomate", "mozzarella", "albahaca"]
+        },
+"diavola": {
+        "id": [2],
+        "nombre": ["diavola"],
+        "precio": [9],
+        "ingredientes":[ "tomate", "mozzarella", "albahaca", "salami picante", "cebolla"]
+        },
+"bufala": {
+            "id": [3],
+        "nombre": ["bufala"],
+        "precio": [9],
+        "ingredientes":[ "tomate", "bufala", "albahaca"]
+        }
+    },
+
+    
+ "pastas": {
+    "pesto": {
+        "id": [1],
+        "nombre": ["pasta al pesto"],
+        "precio": [10],
+        "ingredientes":[ " piñones", " parmesano", " albahaca"]
+        },
+"carbonara": {
+        "id": [2],
+        "nombre": ["carbonara"],
+        "precio": [9],
+        "ingredientes":[ " panceta", " parmesano", " huevo", " mantequilla", " cebolla"]
+        },
+"boloñesa": {
+            "id": [3],
+        "nombre": ["boloñesa"],
+        "precio": [11],
+        "ingredientes":[ " ternera", " tomate", " verduras", " parmesano"]
+        }
+    },
+
+
+    "postres": {
+  "sfogliatella_santa_rosa":{
+            "id": [1],
+            "nombre": ["sfogliatella santa rosa"],
+            "precio": [4],
+            "ingredientes":["masa de trigo", "crema pastelera", "amarena" ]
+        },
+        "tiramisu":{
+            "id":[2],
+            "nombre":["tiramisú"],
+            "precio":[4],
+            "ingredientes":["huevos", "cacao", "café", "licor Amaretto", "galletas Savoiardi"]
+        },
+        "cannolo":{
+         "id": [3],
+            "nombre": ["cannolo"],
+            "precio": [3.5],
+            "ingredientes":["galleta", "ricotta", "fruta caramelizada", "chocolate" ]
+        }
+    },
+
+
+    "bebidas":{
+        "nombres":[
+           "café", "vino", "agua"
+        ],
+        
+        "cafe":{
+            "id": [1],
+            "nombre": ["expreso", "capucchino", "café con leche"],
+            "precio": [1.30, 2, 1.80],
+            "ingredientes":["café, y si deasea leche"]
+     },
+     "vino":{
+            "id": [2],
+            "nombre": ["tinto", "blanco", "spumante"],
+            "precio": [3.5, 3, 4],
+            "ingredientes":["vino"]
+     },
+     "agua":{
+            "id": [3],
+            "nombre": ["agua lisa", "agua gas"],
+            "precio": [1.5, 1.5],
+            "ingredientes":["agua"]
+     }
+    }
+}

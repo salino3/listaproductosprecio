@@ -1,0 +1,36 @@
+{ 
+"myfile" :{
+     "primero": 
+      {
+        "id": 1,
+        "title": "WebStylePress",
+        "content": "Content goes here..",
+        "tech": [
+            {"idx": 1, "name": "Javascript"},
+            {"idx": 2, "name": "Python"}
+
+        ]
+    },
+ "segundo":  
+     {
+    "id": 2,
+    "title": "WSP",
+     "content": "Lorem bla bla bla..",
+        "tech": [{
+            "name": "ReactJS"
+        }]
+    },
+ "tercero": 
+     {
+    "id": 3,
+    "title": "Records",
+     "content": "Content goes here 2 times..",
+        "tech": [{
+            "name": "VueJS"
+        }]
+    }
+ }
+
+}
+
+
